@@ -1,4 +1,5 @@
-# voice-gpt
+# chatgpt-voice
+ Voice Recognition - ChatGPT using Text to Speech, Vue JS, Vite, Open AI, AWS Polly, Javascript
 
 This template should help get you started developing with Vue 3 in Vite.
 
